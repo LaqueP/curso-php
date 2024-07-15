@@ -24,3 +24,4 @@ var_dump($alumnos); // te muestra toda la información de una variable
 define("NUMERO_PI", 3.14);
 
 echo NUMERO_PI;
+
